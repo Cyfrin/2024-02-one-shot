@@ -15,8 +15,8 @@
 
 ### Stats
 
-- nSLOC: 187
-- Complexity Score: 123
+- nSLOC: 201
+- Complexity Score: 143
 
 # One Shot
 
