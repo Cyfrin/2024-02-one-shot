@@ -1,6 +1,6 @@
-<p align="center">
-<img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/onrir4mtc0ipxx4bg7nz?_a=BATAUVAA0" width="400" alt="OneShot">
-<br/>
+# First Flight #10: One Shot
+
+[//]: # (contest-details-open)
 
 # Contest Details
 
@@ -70,6 +70,16 @@ Each rapper's skill is then used to weight their likelihood of randomly winning 
 
 ERC20 token that represents a Rapper's credibility and time on the streets. The primary currency at risk in a rap battle.
 
+## Roles
+
+User - Should be able to mint a rapper, stake and unstake their rapper and go on stage/battle
+
+[//]: # (contest-details-close)
+
+[//]: # (getting-started-open)
+
+# Getting Started
+
 ## Requirements
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
@@ -97,6 +107,10 @@ and for coverage based testing:
 forge coverage --report debug
 ```
 
+[//]: # (getting-started-close)
+
+[//]: # (scope-open)
+
 # Audit Scope Details
 
 - In Scope:
@@ -115,11 +129,13 @@ forge coverage --report debug
 - Chain(s) to deploy contract to:
   - Ethereum
   - Arbitrum
+ 
+[//]: # (scope-close)
 
-# Roles
-
-User - Should be able to mint a rapper, stake and unstake their rapper and go on stage/battle
+[//]: # (known-issues-open)
 
 # Known Issues
 
 None
+
+[//]: # (known-issues-close)
