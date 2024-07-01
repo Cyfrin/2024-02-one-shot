@@ -1,7 +1,5 @@
 # First Flight #10: One Shot
 
-[//]: # (contest-details-open)
-
 # Contest Details
 
 ### Prize Pool
@@ -18,7 +16,7 @@
 - nSLOC: 201
 - Complexity Score: 143
 
-# One Shot
+[//]: # (contest-details-open)
 
 ## Disclaimer
 
